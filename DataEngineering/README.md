@@ -1,8 +1,8 @@
 # Course
 
-## [Introduction to Data Engineering](https://www.coursera.org/learn/introduction-to-data-engineering)
+# [Introduction to Data Engineering](https://www.coursera.org/learn/introduction-to-data-engineering)
 
-### DATA SOURCES
+## DATA SOURCES
 
 1. Structured Data
 - Organized into predefined schema (rows/columns, fixed fields)
@@ -18,7 +18,7 @@
 - Higher ambiguity, higher volume
 - Examples: emails, PDFs, images, videos, audio files, social media posts
 
-### DATA ROLES OVERVIEW
+## DATA ROLES OVERVIEW
 
 1. Data Analyst  
 Raw Data → Cleaned / Structured Data → Insights  
@@ -105,3 +105,99 @@ Ensures availability, integrity, and security of databases.
 
 ![comparing-the-roles](../Static/img/DataEngineering001.PNG)
 
+## Data Engineering
+
+Involves:
+- Data ingestion (collecting data from multiple sources)
+- Data transformation (cleaning, validating, structuring)
+- Data storage (data lakes, data warehouses, databases)
+- Data pipeline development (ETL / ELT workflows)
+- Data modeling (designing schemas for analytics)
+- Data orchestration and scheduling
+- Data quality management
+- Performance optimization and scalability
+- Security and access control
+- Monitoring and maintenance of data systems
+
+## Responsibilities:
+- Design and build data pipelines  
+- Develop and maintain ETL / ELT processes  
+- Integrate data from multiple sources  
+- Ensure data quality and reliability  
+- Optimize data storage and query performance  
+- Implement data security and access controls  
+- Monitor, troubleshoot, and maintain data systems  
+- Collaborate with analysts, scientists, and stakeholders  
+
+## Technical Skills:
+- SQL (advanced querying and optimization)  
+- Programming (Python, Java, or Scala)  
+- ETL tools and workflow orchestration  
+- Data modeling (star/snowflake schemas)  
+- Database systems (relational and NoSQL)  
+- Data warehousing concepts  
+- Distributed processing frameworks  
+- Cloud data platforms  
+- Version control and CI/CD basics  
+- System design fundamentals
+
+## Functional Skills
+- Analytical thinking  
+- Problem-solving  
+- Understanding business requirements  
+- Communication with technical and non-technical stakeholders  
+- Documentation and knowledge management  
+- Data governance awareness  
+- Attention to detail  
+- Process optimization mindset  
+- Collaboration across teams  
+- Time and priority management
+
+## Soft Skills
+- Clear communication  
+- Critical thinking  
+- Adaptability  
+- Accountability  
+- Ownership mindset  
+- Team collaboration  
+- Conflict resolution  
+- Continuous learning discipline  
+- Decision-making under constraints  
+- Attention to detail
+
+## Tools
+
+- Languages, e.g.:
+  - SQL  
+  - Python  
+  - Java  
+  - Scala  
+
+- Automation / Orchestration Tools, e.g.:
+  - Apache Airflow  
+  - Prefect  
+  - Dagster  
+
+- Data Processing Frameworks, e.g.:
+  - Apache Spark  
+  - Apache Flink  
+
+- Data Warehousing Platforms, e.g.:
+  - Snowflake  
+  - Google BigQuery  
+  - Amazon Redshift  
+
+- Databases, e.g.:
+  - PostgreSQL  
+  - MySQL  
+  - MongoDB  
+
+- Cloud Platforms, e.g.:
+  - AWS  
+  - Google Cloud Platform (GCP)  
+  - Microsoft Azure  
+
+- Version Control, e.g.:
+  - Git  
+  - GitHub  
+  - GitLab  
